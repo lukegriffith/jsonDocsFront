@@ -1,0 +1,25 @@
+{
+    "Header": "Hello, World!",
+    "Posts":[
+        
+        {
+            "Title":"This title",
+            "Body": "This is my body."
+        },
+        {
+            "Title":"Second Title",
+            "Body": "Lora ipsum and all that."
+        },
+        {
+            "Title":"Third Title",
+            "Body": "<h3>ole buddy ole pal</h3>"
+        },
+              {
+            "Title":"This is the end of the titles.",
+            "Body": "this is the end, my only friend the end."
+        }
+        
+        
+    ],
+    "Footer": "I am the footer"
+}
